@@ -1,7 +1,7 @@
 # SVHSS
-The code of SVHSS scheme in the paper
+The code of SVHSS in the paper
 ## IDE
-In the coding, we chose CLion as IDE. So, you need to run the code in the CLion.
+In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project mor conveniently.
 ## Dependencies
 ### Install m4
     wget http://mirrors.kernel.org/gnu/m4/m4-1.4.13.tar.gz
@@ -54,13 +54,5 @@ In the coding, we chose CLion as IDE. So, you need to run the code in the CLion.
     tar -xzvf cmake-3.10.2.tar.gz
     cd cmake-3.10.2
     ./configure --prefix=/usr/local
-    sudo make
-    sudo make install
-### Install RELIC
-https://github.com/relic-toolkit/relic/wiki/Building
-
-    tar -xzvf relic-relic-toolkit-0.4.0.tar.gz
-    mkdir -p relic-target
-    sudo cmake ./relic-relic-toolkit-0.4.0
     sudo make
     sudo make install
