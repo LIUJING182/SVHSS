@@ -1,5 +1,5 @@
 # SVHSS
-The code of SVHSS in the paper
+The code of SVHSS in the paper.
 ## IDE
 In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project mor conveniently.
 ## Dependencies
