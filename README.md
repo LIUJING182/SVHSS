@@ -1,7 +1,7 @@
 # SVHSS
 The code of SVHSS in the paper.
 ## IDE
-In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project mor conveniently.
+In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project more conveniently.
 ## Dependencies
 ### Install m4
     wget http://mirrors.kernel.org/gnu/m4/m4-1.4.13.tar.gz
