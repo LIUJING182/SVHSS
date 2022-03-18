@@ -32,8 +32,8 @@ In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will
     sudo make
     sudo make install
 ### Install GMP
-    tar -jxvf  gmp-6.1.2.tar.bz2
-    cd gmp-6.1.2
+    tar -jxvf  gmp-6.2.1.tar.bz2
+    cd gmp-6.2.1
     ./configure --prefix=/usr/local
     sudo make
     sudo make install
@@ -45,8 +45,8 @@ In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will
     sudo make
     sudo make install
 ### Install FLINT
-    tar -xzvf flint-2.5.2.tar.gz
-    cd flint-2.5.2
+    tar -xzvf flint-2.8.4.tar.gz
+    cd flint-2.8.4
     ./configure --with-gmp  --with-mpfr --prefix=/usr/local
     sudo make
     sudo make install
